@@ -1,8 +1,0 @@
-# Config
-DirectoryIndex index.html
-AddDefaultCharset UTF-8
-
-# Errorpages
-Options All -Indexes
-ErrorDocument 404 files/error/404.html
-ErrorDocument 403 files/error/403.html
