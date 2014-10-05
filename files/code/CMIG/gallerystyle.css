@@ -1,0 +1,25 @@
+#motioncontainer {
+	max-width: 1000px;
+	height: 170px;
+	position: relative;
+	overflow: hidden;
+}
+
+#motiongallery {
+	top: 10px !important;
+	position: absolute;
+	white-space: nowrap;
+}
+
+#statusdiv {
+	background-color: lightyellow;
+	border: 0px solid gray;
+	padding: 2px;
+	position: absolute;
+	left: -300px;
+	visibility: hidden;
+}
+
+#motioncontainer a:hover {
+	color: red;
+}
